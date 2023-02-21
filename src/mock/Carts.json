@@ -1,0 +1,19 @@
+{
+    "carts": [
+        {
+            "cid": "CART_00001",
+            "pid": "PRO_00001",
+            "no_of_item": "1"
+        },
+        {
+            "cid": "CART_00002",
+            "pid": "PRO_00002",
+            "no_of_item": "1"
+        },
+        {
+            "cid": "CART_00003",
+            "pid": "PRO_00003",
+            "no_of_item": "1"
+        }
+    ]
+}

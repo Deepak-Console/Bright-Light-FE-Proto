@@ -1,0 +1,106 @@
+{
+    "category": [
+        {
+            "cid": "CAT_001",
+            "name": "Ground Chakkars",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_002",
+            "name": "Flower Pots",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_003",
+            "name": "Fancy Fountains",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_004",
+            "name": "Pencils",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_005",
+            "name": "Sparklers",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_006",
+            "name": "Atom Bomb",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_007",
+            "name": "One Sound Crackers",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_008",
+            "name": "Rocket",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_009",
+            "name": "Chilly Crackers",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_010",
+            "name": "Fancy Multi Shot",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_011",
+            "name": "Colour Matches",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_012",
+            "name": "Gift Boxes",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_013",
+            "name": "Deluxe Chilly Crackers",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_014",
+            "name": "Multi Color Shot",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_015",
+            "name": "Twinkling Stars",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_016",
+            "name": "GROUND CHAKKARS",
+            "discription": "",
+            "isDeleted": ""
+        },
+        {
+            "cid": "CAT_017",
+            "name": "Family Pack",
+            "discription": "",
+            "isDeleted": ""
+        }
+    ]
+}
